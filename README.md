@@ -1,7 +1,7 @@
 # RestaurantIQ
 
 RestaurantIQ is a Python-based restaurant investment recommendation system. It cleans restaurant data, performs restaurant and cuisine analysis, analyzes customer reviews, measures competition, and calculates an investment score for potential restaurant opportunities.
-
+m
 ## Features
 
 - Analyze restaurant data for **Bangalore** and **Hyderabad**
